@@ -9,7 +9,7 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "CodeGenesis-2024"
 
 # A description of your site for meta tag, search engine results.
 description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
@@ -33,7 +33,9 @@ navigation:
   - text: About
     url: /about/
   - text: Work
-    url: /style-guide/
+    url: /work/
+  - text: Showcase
+    url: /showcase/
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
