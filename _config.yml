@@ -7,10 +7,10 @@ title: "CodeGenesis-2024"
 # A description of your site for meta tag, search engine results.
 description: "開発経歴や自分がどんな業務をやってきたかを残す"
 
-baseurl: "/kazukikanomata.github.io" # リポジトリ名を記載
+# baseurl: "/kazukikanomata.github.io" # リポジトリ名を記載
+# domain: /kazukikanomata.github.io
 url: "https://kazukikanomata.github.io"
 
-domain: /kazukikanomata.github.io
 
 # Favicon
 favicon: images/favicon.png
