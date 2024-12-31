@@ -1,1 +1,0 @@
-# kazukikanomata.github.io
