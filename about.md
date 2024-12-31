@@ -10,8 +10,6 @@ feature_image: images/about.jpg
 - 名前：**Kazuki Kanomata**
 - 24卒。都内でWeb系バックエンドエンジニアをやっています。
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
 ## 出身
 - 神奈川の大学に通っていました。経営学部専攻です
 - 出身は宮城県で現在は神奈川に住んでいます

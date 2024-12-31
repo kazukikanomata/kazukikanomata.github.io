@@ -1,24 +1,17 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site language
-lang: en-US
+lang: ja
 
 # Site title
 title: "CodeGenesis-2024"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "開発経歴や自分がどんな業務をやってきたかを残す"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
-# The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+domain: /kazukikanomata.github.io
+url: "https://kazukikanomata.github.io"
 
 # Favicon
 favicon: images/favicon.png
