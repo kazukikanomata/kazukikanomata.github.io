@@ -2,7 +2,7 @@
 layout: page
 title: About me
 description: An optional about page for introduction to me
-feature_image: images/about.jpg
+feature_image: assets/images/about.jpg
 ---
 
 ## はじめに
