@@ -23,11 +23,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /about
   - text: Work
-    url: /work/
+    url: /work
   - text: Showcase
-    url: /showcase/
+    url: /showcase
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
