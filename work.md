@@ -4,10 +4,9 @@ title: Work(done)
 description: This is a style guide of the Scriptor Jekyll theme
 ---
 
-
-2024年9月~12月
-
 ## APIリファレンス改修業務
+
+<p>2024年9月~10月</p>
 
 <!-- プロジェクトがわからない外部の人に説明する感じで記述する -->
 
@@ -42,6 +41,8 @@ description: This is a style guide of the Scriptor Jekyll theme
 
 ## データパッチ業務
 
+<p>2024年10月~12月</p>
+
 やったこと
 - データパッチシステム（PRをあげたら基幹DBに書き込みできるようになるシステム）を運用Tが利用できるようにする
 - すでに存在する。社内システムの改修作業。
@@ -64,75 +65,3 @@ description: This is a style guide of the Scriptor Jekyll theme
 - バディと一緒に相談して進めることが多かったのもあり、POにPJTに進捗共有を怠っていた。PJTの方針が変わったり、既存の路線から変更したときにはなおさら進捗共有が大事であり、定例MTGや1on1の重要性を感じた。
 - 自分が何を優先して取り組むべきかのROI視点的なPJTアプローチを描けた。自分（正社員）が考えるといいタスクってなんだろうの視点を得られた。
 - タスクを実施することによるメリットは人によって違ってきており、色々な視座で仕事に関する話を聞けたこと。
-
-This is a pragraph. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.
-
-# Heading 1
-
-**Quisque facilisis erat a dui**. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## Heading 2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### Heading 3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### Heading 4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
-
-##### Heading 5
-
-Curabitur pellentesque facilisis orci, ut rhoncus nulla scelerisque ac. Integer in magna vel justo venenatis ornare vitae vel sem.
-
-###### Heading 6
-
-Nulla tempus tortor nec nunc volutpat commodo. Vivamus efficitur imperdiet velit sagittis pellentesque. In fringilla dui nec dolor sollicitudin, et scelerisque elit pellentesque. Integer vestibulum viverra sem, vel ornare nibh. Proin lobortis elit nunc, ut consequat elit vulputate sit amet.
-
-## Emphasis
-
-**This is bold text**
-
-*This is italic text*
-
-~~Strikethrough~~
-
-## Links
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-## Quoting
-
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.”
-
-Lorem ipsum dolor sit amet, `consectetuer adipiscing` elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-
-## Lists
-Here is an unordered list of items, typically rendered as a bulleted list:
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-Here is an ordered list of items, typically rendered as a numbered list:
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-### Tables
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-| Text  | Text  |
