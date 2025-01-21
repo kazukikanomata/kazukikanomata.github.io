@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Work(done)
+title: Work
 description: This is a style guide of the Scriptor Jekyll theme
 ---
 
+## 2024年
+
 ## APIリファレンス改修業務
-
-<p>2024年9月~10月</p>
-
 <!-- プロジェクトがわからない外部の人に説明する感じで記述する -->
+
+実施時期：9月~10月
 
 やったこと
 - APIのwebマニュアル表現の誤りを修正する作業

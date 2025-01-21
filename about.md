@@ -40,24 +40,6 @@ feature_image: assets/images/about.jpg
 			- シンドバット
 			- センターオブジアース
 			
-### みているアニメ
-- 【推しの子】
-- 鬼滅の刃
-- ブルーロック
-- SPYFamily
-- アオアシ
-- 呪術廻戦
-- 進撃の巨人
-- 名探偵コナン
-- 東京リベンジャーズ
-- ジョジョの奇妙な冒険
-- 新世紀エヴァンゲリオン
-- ソードアートオンライン
-- 僕のヒーローアカデミア
-- HANTUER ✖︎ HANTUER
-- ヴァイオレット・エヴァー・ガーデン
-- 機動戦士ガンダム（00・ユニコーン・SEED・鉄血）
-- Re:ゼロから始まる異世界生活
 
 ### ネイル
 - 夜に「いらんこと言ったな」or「人の発言でクヨクヨする」時があり、ネイルをしたらそれがなくなりました
@@ -72,7 +54,9 @@ feature_image: assets/images/about.jpg
 
 ## インターン
 
-2020年春3月頃？：「絵葉書 訪問販売」
+### 2020年
+
+3月頃？：「絵葉書 訪問販売」
 こちらを売っていました。
 
 ![image](https://gist.github.com/user-attachments/assets/5a38e79c-a5c5-4463-9309-2000886a9193)
@@ -80,9 +64,11 @@ feature_image: assets/images/about.jpg
 - BtoCで、飛び込み営業とかそういうやつです
 - 1日で100件くらいピンポンしまくりうりました。靴がもげて親指の爪が曲がりましたw
 - こちらの会社：https://isseido.base.ec/
- 　
 
-2021年〜2022年：「Webマーケティングのインターン」
+
+### 2021年
+
+春〜冬：Webマーケティングのインターンを実施
 
 [湘南フラワーコーディネイト](https://sfc-hana.com/)にて、バナーやブログの更新、SEOなどをやって集客をやってました。
 
@@ -92,49 +78,54 @@ feature_image: assets/images/about.jpg
 - 時給500円くらいではたらいてましたね笑
 - 集客の動線づくり・事業者目線何にこだわりをもっているのか？どういう要望が必要かを手探りながら経験してきました！
 
+### 2022年
 
-2022年サマー：CARTAHoldings「Treasure」
+夏：[CARTAHoldings Treasure](https://techblog.cartaholdings.co.jp/treasure)
 
 - 駐車場の空き状況を管理するアプリを作りました
 - 技術：Go・React・Swaggerを使ってAPIを開発
-- 個人ブログ：https://www.voyage-to-the-new-world.com/treasure-summerインターンに行ってきた/
+- 個人ブログ：[https://www.voyage-to-the-new-world.com/treasure-summerインターンに行ってきた/](https://www.voyage-to-the-new-world.com/treasure-summerインターンに行ってきた/)
 
-2022年ウインター：Speee
+冬：[Speee](https://newgraduate.speee.jp/biz/internship/)
 - 上流工程をガチガチにやるインターンです
 - 営業の人と喋りながらのテーブル定義書をみんなで設計しました
 - 現場こそ大事ですね
 
-2022年ウインター：コーダーのバイト（ちょっと）
+冬：コーダーのバイト（ちょっと）
 - jQueryを書いてました
 - 同時に同じPJTを進行してて、目眩して倒れました
 
-2022年冬〜春：エンジニアメンター講師を担当
+冬〜春：[エンジニアメンター講師を担当](https://techselect.careerselect.jp/)
 - PHPを教えるコーチング型のメンターをやってました
 - 人が成長する瞬間を見るのが好きですね
 
-2023年春：GMO（インフラハッカソン）やってました。
+### 2023年
+
+春：GMO（インフラハッカソン）やってました。
 - ZabbixというUIが死んでる監視ツールを使ったり、速度をはやくするやつで競いました
 - Qitta：[DevSecOpsThon2023 at GMO kitaQに参加してみた感想](https://qiita.com/kazukikanomata/items/b1cd7399d8bcf87981c3)
 
-2023年5/6月：株式会社ネットプロテクションズで内定者インターンを実施
+5/6月：株式会社ネットプロテクションズで内定者インターンを実施
 - EC2以外のAWSを触りました。
 - 質問の仕方に苦戦して当時の様子をQittaでかいています。
 - Qitta：[知っておいて損しない質問の仕方](https://qiita.com/kazukikanomata/items/629b0412eab81522054b)
 
-2024年：株式会社ネットプロテクションズに入社
+### 2024年
+
+4月：株式会社ネットプロテクションズに入社
 
 そのほか諸々技術ワークショップに参加してます
-- [サイバーエージェントパフォーマンスチューニング](https://note.com/6010kanoma/n/nd44de0b51db5)
+- Note：[サイバーエージェントパフォーマンスチューニング](https://note.com/6010kanoma/n/nd44de0b51db5)
 - Qiita：[【神イベ】Agile PBL祭り2024の内容が濃すぎて伝えたい](https://qiita.com/kazukikanomata/items/9b6e57e2bf6a4b0d5bcd)
 
 ## 情報発信
 
-個人ブログ：https://www.voyage-to-the-new-world.com/
+個人ブログ：[https://www.voyage-to-the-new-world.com/](https://www.voyage-to-the-new-world.com/)
 - 2024年現在は、AWS初学者にむけた記事を月4記事アウトプットしています
 
-Qitta：https://qiita.com/kazukikanomata/
+Qitta：[https://qiita.com/kazukikanomata/](https://qiita.com/kazukikanomata/)
 - 主に技術のデバック関係や文法や書き方など下流についてアウトプットしています
-　	
+
 インスタ
 - メンズネイルでひっそり参戦します。じぎょうつくります
 
