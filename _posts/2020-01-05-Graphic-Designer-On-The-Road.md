@@ -3,7 +3,7 @@ layout: post
 title: "Happy New Year"
 description: "Site sturcture"
 date: 2024-01-01
-feature_image: assets/images/vancuber.jpg
+feature_image: assets/images/newYear.png
 tags: [Work]
 ---
 
