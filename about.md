@@ -11,6 +11,7 @@ feature_image: assets/images/about.jpg
 - 24卒。都内でWeb系バックエンドエンジニアをやっています。
 
 ## 出身
+- うまれは宮城県の名取市というところです。
 - 神奈川の大学に通っていました。経営学部専攻です
 - 出身は宮城県で現在は神奈川に住んでいます
 
@@ -63,7 +64,7 @@ feature_image: assets/images/about.jpg
 
 - BtoCで、飛び込み営業とかそういうやつです
 - 1日で100件くらいピンポンしまくりうりました。靴がもげて親指の爪が曲がりましたw
-- こちらの会社：https://isseido.base.ec/
+- こちらの会社：[https://isseido.base.ec/](https://isseido.base.ec/)
 
 
 ### 2021年
@@ -82,16 +83,24 @@ feature_image: assets/images/about.jpg
 
 夏：[CARTAHoldings Treasure](https://techblog.cartaholdings.co.jp/treasure)
 
+![image](https://cdn-ak.f.st-hatena.com/images/fotolife/v/voyagegroup_tech/20240401/20240401140848.jpg)
+
 - 駐車場の空き状況を管理するアプリを作りました
 - 技術：Go・React・Swaggerを使ってAPIを開発
 - 個人ブログ：[https://www.voyage-to-the-new-world.com/treasure-summerインターンに行ってきた/](https://www.voyage-to-the-new-world.com/treasure-summerインターンに行ってきた/)
 
 冬：[Speee](https://newgraduate.speee.jp/biz/internship/)
+
+![image](https://speee.jp/wp-content/uploads/2022/08/bbf643ee1c95ad2491ce710418a0bf99.png)
+
 - 上流工程をガチガチにやるインターンです
 - 営業の人と喋りながらのテーブル定義書をみんなで設計しました
 - 現場こそ大事ですね
 
 冬：コーダーのバイト（ちょっと）
+
+![image](https://since-inc.jp/wp-content/uploads/2021/05/jquery.jpg)
+
 - jQueryを書いてました
 - 同時に同じPJTを進行してて、目眩して倒れました
 
@@ -101,11 +110,17 @@ feature_image: assets/images/about.jpg
 
 ### 2023年
 
-春：GMO（インフラハッカソン）やってました。
+春：GMO（インフラハッカソン）
+
+[![image](https://www.gmo.jp/public/pr/ja/images/8272/1678080066291.png)](https://www.gmo.jp/news/article/8272/)
+
 - ZabbixというUIが死んでる監視ツールを使ったり、速度をはやくするやつで競いました
 - Qitta：[DevSecOpsThon2023 at GMO kitaQに参加してみた感想](https://qiita.com/kazukikanomata/items/b1cd7399d8bcf87981c3)
 
 5/6月：株式会社ネットプロテクションズで内定者インターンを実施
+
+![image](https://corp.netprotections.com/assets/images/ogp.png)
+
 - EC2以外のAWSを触りました。
 - 質問の仕方に苦戦して当時の様子をQittaでかいています。
 - Qitta：[知っておいて損しない質問の仕方](https://qiita.com/kazukikanomata/items/629b0412eab81522054b)
