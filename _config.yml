@@ -28,6 +28,8 @@ navigation:
     url: /work
   - text: Showcase
     url: /showcase
+  - text: Themes
+    url: /themes
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes

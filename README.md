@@ -19,4 +19,6 @@ $ rbenv versions
 
 ## ローカルでサーバ立ち上げ
 
+```
 $ bundle exec jekyll serve
+```
