@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<main class="main-content fadeInDown delay_075s">
+  <article class="post">
+    <header class="post-header">
+      <time class="post-date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="post-meta">
+        <a href="{{ site.baseurl }}/learning">&larr; Learning 一覧</a>
+      </div>
+    </header>
+    <div class="post-content">
+      {{ content }}
+    </div>
+    {% if page.issue %}
+    <div class="post-meta" style="margin-top: 2rem; font-size: 0.85em;">
+      <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/issues/{{ page.issue }}" target="_blank" rel="noopener">GitHub Issue #{{ page.issue }}</a>
+    </div>
+    {% endif %}
+  </article>
+</main>

@@ -1,0 +1,55 @@
+name: 学びメモ
+description: 技術的な学びを記録する
+labels: ["learning"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: タイトル（Issue タイトルに入力してください）
+      description: "例: React Hooks の基礎"
+    validations:
+      required: false
+
+  - type: textarea
+    id: mechanism
+    attributes:
+      label: どんな技術でどういう仕組み？
+      placeholder: |
+        例: React Hooks は関数コンポーネントで state やライフサイクルを扱うための仕組み。
+        useState が内部的にレンダリングサイクルに紐づいた配列に状態を保持している。
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 何を解決できる？
+      placeholder: |
+        例: クラスコンポーネントを使わずに state 管理ができる。
+        コードが短くなりロジックを関数として再利用しやすくなる。
+    validations:
+      required: true
+
+  - type: textarea
+    id: best_practices
+    attributes:
+      label: ベストプラクティス
+      placeholder: |
+        - useEffect の依存配列は省略しない
+        - カスタム Hooks でロジックを分離する
+    validations:
+      required: false
+
+  - type: textarea
+    id: code_example
+    attributes:
+      label: コードを書くとどうなる？
+      render: tsx
+      placeholder: |
+        const [count, setCount] = useState(0);
+
+        useEffect(() => {
+          document.title = `count: ${count}`;
+        }, [count]);
+    validations:
+      required: false
