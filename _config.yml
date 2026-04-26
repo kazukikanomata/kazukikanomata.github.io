@@ -11,6 +11,9 @@ description: "開発経歴や自分がどんな業務をやってきたかを残
 url: "https://kazukikanomata.github.io"
 baseurl: ""
 
+github_username: kazukikanomata
+github_repo: kazukikanomata.github.io
+
 
 # Favicon
 favicon: /assets/images/favicon.png
@@ -26,10 +29,21 @@ navigation:
     url: /about
   - text: Work
     url: /work
-  - text: Showcase
-    url: /showcase
-  - text: Themes
-    url: /themes
+  - text: Learning
+    url: /learning
+
+# Collections
+collections:
+  learning:
+    output: true
+    permalink: /learning/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "learning"
+    values:
+      layout: "learning"
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
